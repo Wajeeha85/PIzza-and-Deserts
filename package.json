@@ -1,0 +1,43 @@
+{
+  "name": "new",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^9.0.4",
+    "@tabler/icons-react": "^3.30.0",
+    "@types/three": "^0.174.0",
+    "autoprefixer": "^10.4.20",
+    "axios": "^1.8.1",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "dotenv": "^16.4.7",
+    "framer-motion": "^12.4.10",
+    "lucide-react": "^0.477.0",
+    "mini-svg-data-uri": "^1.4.4",
+    "motion": "^12.4.7",
+    "next": "15.2.0",
+    "postcss": "^8.5.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^3.0.2",
+    "tailwindcss-animate": "^1.0.7",
+    "three": "^0.174.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.0",
+    "tailwindcss": "^4.0.9",
+    "typescript": "^5"
+  }
+}
